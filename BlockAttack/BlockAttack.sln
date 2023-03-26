@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockAttack.Examples", "BlockAttack.Examples\BlockAttack.Examples.csproj", "{85E84F51-0651-4883-ACB0-58BBAB1EDC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockAttack.Builder", "BlockAttack.Builder\BlockAttack.Builder.csproj", "{7FFB8F4F-F1D1-4761-AF9A-3722B6CA8C3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockAttack.Publisher", "BlockAttack.Publisher\BlockAttack.Publisher.csproj", "{30BF4011-5775-4846-8CF1-08B252AAC52D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockAttack.Tool", "BlockAttack.Tool\BlockAttack.Tool.csproj", "{6388B1A9-7B0B-4758-87A2-DD68CE5E586A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85E84F51-0651-4883-ACB0-58BBAB1EDC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E84F51-0651-4883-ACB0-58BBAB1EDC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E84F51-0651-4883-ACB0-58BBAB1EDC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E84F51-0651-4883-ACB0-58BBAB1EDC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFB8F4F-F1D1-4761-AF9A-3722B6CA8C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFB8F4F-F1D1-4761-AF9A-3722B6CA8C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFB8F4F-F1D1-4761-AF9A-3722B6CA8C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFB8F4F-F1D1-4761-AF9A-3722B6CA8C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BF4011-5775-4846-8CF1-08B252AAC52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BF4011-5775-4846-8CF1-08B252AAC52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BF4011-5775-4846-8CF1-08B252AAC52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BF4011-5775-4846-8CF1-08B252AAC52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6388B1A9-7B0B-4758-87A2-DD68CE5E586A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6388B1A9-7B0B-4758-87A2-DD68CE5E586A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6388B1A9-7B0B-4758-87A2-DD68CE5E586A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6388B1A9-7B0B-4758-87A2-DD68CE5E586A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7577F6-DCDD-4E0C-8FBD-9779C4F655A5}
+	EndGlobalSection
+EndGlobal

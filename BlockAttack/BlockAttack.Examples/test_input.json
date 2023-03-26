@@ -1,0 +1,81 @@
+{
+  "BlockGroups": [
+    {
+      "Blocks": {
+        "1": {
+          "Condition": {
+            "Literal1": {
+              "Type": 2,
+              "Value": "input"
+            },
+            "Expression": 0,
+            "Literal2": {
+              "Type": 1,
+              "Value": "1"
+            }
+          },
+          "Handler": {
+            "Literal1": {
+              "Type": 2,
+              "Value": "input"
+            },
+            "Expression": 5,
+            "Literal2": {
+              "Type": 1,
+              "Value": "branch 1"
+            }
+          }
+        },
+        "2": {
+          "Condition": {
+            "Literal1": {
+              "Type": 2,
+              "Value": "input"
+            },
+            "Expression": 0,
+            "Literal2": {
+              "Type": 1,
+              "Value": "2"
+            }
+          },
+          "Handler": {
+            "Literal1": {
+              "Type": 2,
+              "Value": "input"
+            },
+            "Expression": 5,
+            "Literal2": {
+              "Type": 1,
+              "Value": "branch 2"
+            }
+          }
+        },
+        "3": {
+          "Condition": {
+            "Literal1": {
+              "Type": 2,
+              "Value": "input"
+            },
+            "Expression": 0,
+            "Literal2": {
+              "Type": 1,
+              "Value": "3"
+            }
+          },
+          "Handler": {
+            "Literal1": {
+              "Type": 2,
+              "Value": "input"
+            },
+            "Expression": 5,
+            "Literal2": {
+              "Type": 1,
+              "Value": "branch 3"
+            }
+          }
+        }
+      },
+      "OrderedById": true
+    }
+  ]
+}
